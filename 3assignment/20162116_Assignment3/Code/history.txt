@@ -1,0 +1,132 @@
+   1#ls -l
+   2#grep pip | wc
+   3#pwd
+   4#echo "hello"
+   5#cat hai > test.txt
+   6#ls -l
+   7#grep pip | wc
+   8#pwd
+   9#echo "hello"
+   10#cat hai > test.txt
+   11#ls -l
+   12#grep pip | wc
+   13#pwd
+   14#echo "hello"
+   15#cat hai > test.txt
+   16#history
+   17#history 10
+   18#NAME=ADITHYA
+   19#history
+   20#clear
+   21#cat history.txt
+   22#history
+   23#ls -l | grep pipe
+   24#history
+   25#cat history.txt
+   26#history
+   27#exit
+   27#cat history.txt
+   28#clear
+   29#history
+   30#history 10
+   31#clear
+   32#history
+   33#cat ../client1.cpp
+   34#history
+   35#clear
+   36#exit
+   37#cat history.txt
+   38#history
+   39#exit
+   40#hehehe
+   41#history 5
+   42#pwd
+   43#pwd | shell | wc
+   44#pwd | wc
+   45#pwd | shell
+   46#history
+   47#clear
+   48#history
+   49#pwd
+   50#pwd |wc
+   51#pwd | grep "shell" | wc
+   52#pwd | grep shell
+   53#pwd | grep "shell"
+   54#pwd | grep shell | wc
+   55#history
+   56#clear
+   57#echo $HOME
+   58#echo !!
+   59#echo $HOME
+   60#history
+   61#echo $HOME
+   62#echo !!
+   63#echo $HOME
+   64#echo !!
+   65#echo $HOME
+   66#pwd | grep shell | wc
+   67#history
+   68#echo !!
+   69#history
+   70#echo !!
+   71#history
+   72#pwd | grep shell | wc
+   73#echo !!
+   74#history
+   75#pwd | grep shell | wc
+   76#history
+   77#pwd | grep shell | wc
+   78#history
+   79#pwd | grep shell | wc
+   80#history
+   81#pwd | grep shell | wc
+   82#history
+   83#history 15
+   84#history
+   85#clear
+   86#history
+   87#clear
+   88#history
+   89#clear
+   90#history
+   91#pwd | grep shell | wc
+   91#clear
+   92#history
+   93#clear
+   94#history
+   95#clear
+   96#history
+   97#history 15
+   98#history
+   99#clear
+  100#history
+  101#history 15
+  102#pwd
+  103#history
+  104#pwd
+  105#history
+  106#history 15
+  107#history
+  108#pwd
+  109#history
+  110#cd ..
+  111#history
+  112#pwd
+  113#history
+  114#clear
+  115#history
+  116#history 5
+  117#pwd
+  118#history
+  119#pwd
+  120#history
+  121#history 5
+  122#$4
+  123#history
+  124#pwd
+  125#history
+  126#chearl
+  127#history
+  128#./a	
+  128#pwd
+  129#history
